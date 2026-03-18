@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import kazPhoto from "@/assets/kaz-long.webp";
+import kazPhoto from "@/assets/kaz-long-hd.jpg";
 
 const About = () => (
   <section id="about" className="bg-charcoal">
