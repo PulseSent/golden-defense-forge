@@ -15,7 +15,7 @@ const About = () => (
         <img
           src={kazPhoto}
           alt="Kaz Christopher Long, Criminal Defense Attorney"
-          className="w-full h-full object-cover object-top grayscale hover:grayscale-0 transition-all duration-700"
+          className="w-full h-full object-cover object-top"
         />
       </motion.div>
 
