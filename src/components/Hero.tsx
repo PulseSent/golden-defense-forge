@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 
-const transition = { duration: 0.8, ease: [0.22, 1, 0.36, 1] };
+const transition = { duration: 0.8, ease: [0.22, 1, 0.36, 1] as const };
 
 const Hero = () => (
   <section className="relative min-h-screen flex items-center justify-center bg-obsidian noise-overlay overflow-hidden">
